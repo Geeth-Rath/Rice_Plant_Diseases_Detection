@@ -1,1 +1,0 @@
-# Rice_Plant_Diseases_Detection
